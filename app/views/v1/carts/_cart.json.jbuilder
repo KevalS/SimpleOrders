@@ -1,0 +1,1 @@
+json.extract! cart, :id, :total_price
